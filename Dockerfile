@@ -1,3 +1,3 @@
 FROM tomcat
 MAINTAINER omkar
-
+EXPOSE 8000
